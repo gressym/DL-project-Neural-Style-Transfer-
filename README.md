@@ -6,9 +6,8 @@ This project implements **Neural Style Transfer (NST)** using a **fine-tuned VGG
 Neural Style Transfer uses a deep Convolutional Neural Network (CNN) to extract **content features** from one image and **style features** from another. In this project, we **partially fine-tuned a pre-trained VGG19 model** on our dataset to improve stylization, then saved and reloaded the model for inference.
 
 ## 🖼️ Example
-
-![style](https://github.com/user-attachments/assets/749f02cf-2a4f-4872-90f1-e45a3781b558)+
-![lion](https://github.com/user-attachments/assets/23e20e6b-77fa-4564-8139-3c309c619525)=
+![lion](https://github.com/user-attachments/assets/23e20e6b-77fa-4564-8139-3c309c619525)+
+![style](https://github.com/user-attachments/assets/749f02cf-2a4f-4872-90f1-e45a3781b558)=
 ![stylized_output](https://github.com/user-attachments/assets/a49f9423-73d9-455b-8172-782094a46254)
 
 ## 📁 Directory Structure
@@ -60,6 +59,7 @@ Neural Style Transfer uses a deep Convolutional Neural Network (CNN) to extract 
 
 - [A Neural Algorithm of Artistic Style – Gatys et al.](https://arxiv.org/abs/1508.06576)
 - TensorFlow Style Transfer Tutorials
+- [NST Reasearch paper]-(https://www.researchgate.net/publication/333702745_Neural_Style_Transfer_A_Review).
 
 ## ✨ Acknowledgements
 Thanks to the open-source community and foundational deep learning research for making such projects possible.
