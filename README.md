@@ -46,14 +46,14 @@ Neural Style Transfer uses a deep Convolutional Neural Network (CNN) to extract 
    streamlit run app.py
    ```
 ## 📚 Technologies Used
-
+```
 -Python
 -TensorFlow / Keras
 -NumPy
 -Matplotlib
 -Streamlit (GUI)
 -VGG19 (with partial fine-tuning)
-
+```
 
 ## 📄 References
 
